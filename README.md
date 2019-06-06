@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona is a probot app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Mona says hi to the newbies :)
 
 ## Getting started
 
